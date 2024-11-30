@@ -27,9 +27,9 @@ package Exceptions;
         
         // 1. Demonstrating StackOverflowError
 
-        // System.out.println("1. Demonstrating StackOverflowError:");
+         System.out.println("1. Demonstrating StackOverflowError:");
         
-        //demo.demonstrateStackOverflowError(1);
+        demo.demonstrateStackOverflowError(1);
         
         // 2. Demonstrating OutOfMemoryError
         //System.out.println("\n2. Demonstrating OutOfMemoryError:");
